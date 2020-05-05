@@ -8,9 +8,7 @@
     "test": "node scripts/test.js",
     "analyze": "source-map-explorer build/static/js/main.*",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook",
-    "styleguide": "styleguidist server",
-    "styleguide:build": "styleguidist build"
+    "build-storybook": "build-storybook"
   },
   "browserslist": {
     "production": [
